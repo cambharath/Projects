@@ -1,5 +1,7 @@
 # Web Scrape Google Places using Google Place API
 
+Medium Post - https://medium.com/@cam.bharath92/web-scrape-google-places-using-google-place-api-af003a4fb00e
+
 In this post, we are going to discuss how to use Google Places API to extract nearby places for your work-related projects.
 
 To start with you have to access https://cloud.google.com/ and create an account for yourself and then access console and click on start a project and navigate to credentials and generate an API Token Key. This API Key is used in the request URL.
